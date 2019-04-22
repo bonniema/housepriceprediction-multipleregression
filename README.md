@@ -1,2 +1,2 @@
-# kc_housing_project
+# King County Housing Project
 Multiple Regression Project 
