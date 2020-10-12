@@ -48,7 +48,7 @@ Model validation: cross-validation
 
 **However, it might be smarter to target growing areas.**
 
-![Coefficient of zipcode on price](./images/coefficientonprice.png)
+![Coefficient of zipcode on price](./images/coefficientofziponprice.png)
 
 **For existing house owners, if you can’t change the location, improve the grade of your house through renovation - enlarging living room size, or total lot size**
 
